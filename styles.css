@@ -81,3 +81,15 @@ p {
 #startBtn:hover {
   background-color: #1e7e34;
 }
+
+.btn.der {
+  background-color: #007bff; /* синій */
+}
+
+.btn.die {
+  background-color: #dc3545; /* червоний */
+}
+
+.btn.das {
+  background-color: #28a745; /* зелений */
+}
